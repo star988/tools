@@ -21,5 +21,8 @@
         "mikey.vscode-fileheader",
         "robertohuertasm.vscode-icons",
         "vscodevim.vim",
+        "hollowtree.vue-snippets",
+        "dbaeumer.jshint",
+        "xabikos.javascriptsnippets"
 	]
 }
