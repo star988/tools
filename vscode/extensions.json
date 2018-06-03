@@ -28,6 +28,7 @@
         "mkxml.vscode-filesize",
         "wix.vscode-import-cost",
         "dracula-theme.theme-dracula",
-        "ecmel.vscode-html-css"
+        "ecmel.vscode-html-css",
+        "donjayamanne.jquerysnippets"
 	]
 }
