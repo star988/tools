@@ -23,6 +23,11 @@
         "vscodevim.vim",
         "hollowtree.vue-snippets",
         "dbaeumer.jshint",
-        "xabikos.javascriptsnippets"
+        "xabikos.javascriptsnippets",
+        "peakchen90.open-html-in-browser",
+        "mkxml.vscode-filesize",
+        "wix.vscode-import-cost",
+        "dracula-theme.theme-dracula",
+        "ecmel.vscode-html-css"
 	]
 }
