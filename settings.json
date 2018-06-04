@@ -3,7 +3,7 @@
   "editor.wordWrap": "bounded",
   "workbench.iconTheme": "vscode-icons",
   "editor.minimap.enabled": true,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "window.menuBarVisibility": "default",
   "workbench.statusBar.visible": true,
   "fileheader.Author": "simba",
@@ -13,7 +13,7 @@
   "docthis.includeDescriptionTag": true,
   "docthis.inferTypesFromNames": true,
   "terminal.integrated.fontSize": 18,
-  "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.shell.windows": "E:\\js\\client\\git\\Git\\bin\\bash.exe",
   "search.followSymlinks": false,
   "workbench.colorTheme": "One Dark Pro",
   "bracketPairColorizer.consecutivePairColors": ["()","[]","{}",
@@ -30,4 +30,11 @@
   "editor.renderIndentGuides": false,
   "editor.detectIndentation": false,
   "editor.renderLineHighlight": "line",
+  "gitlens.advanced.messages": {
+    "suppressFileNotUnderSourceControlWarning": true,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.historyExplorer.enabled": true,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.codeLens.enabled": false,
 }
