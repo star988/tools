@@ -29,6 +29,9 @@
         "wix.vscode-import-cost",
         "dracula-theme.theme-dracula",
         "ecmel.vscode-html-css",
-        "donjayamanne.jquerysnippets"
+        "donjayamanne.jquerysnippets",
+        "eamodio.gitlens",
+        "felipecaputo.git-project-manager",
+        "donjayamanne.githistory"
 	]
 }
