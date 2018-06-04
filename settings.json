@@ -32,10 +32,12 @@
   "editor.renderLineHighlight": "line",
   "gitlens.advanced.messages": {
     "suppressFileNotUnderSourceControlWarning": true,
+    "suppressGitVersionWarning": true,
     "suppressShowKeyBindingsNotice": true
   },
   "gitlens.historyExplorer.enabled": true,
   "gitlens.currentLine.enabled": false,
   "gitlens.codeLens.enabled": false,
   "git.confirmSync": false,
+  "git.ignoreLegacyWarning": true,
 }
