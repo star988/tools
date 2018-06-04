@@ -1,0 +1,41 @@
+// 将按键绑定配置放入此文件中即可覆盖默认值
+[
+    {
+        "key": "ctrl+shift+z",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+oem_3",
+        "command": "-workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+shift+oem_2",
+        "command": "editor.action.blockComment",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+a",
+        "command": "-editor.action.blockComment",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+k ctrl+oem_2",
+        "command": "editor.emmet.action.toggleComment"
+    },
+    {
+        "key": "ctrl+shift+backspace",
+        "command": "workbench.action.terminal.kill"
+    },
+    {
+        "key": "ctrl+shift+oem_7",
+        "command": "workbench.action.terminal.new"
+    },
+    {
+        "key": "ctrl+shift+oem_3",
+        "command": "-workbench.action.terminal.new"
+    },
+    {
+        "key": "ctrl+alt+oem_6",
+        "command": "search.action.collapseSearchResults"
+    }
+]
