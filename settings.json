@@ -37,4 +37,5 @@
   "gitlens.historyExplorer.enabled": true,
   "gitlens.currentLine.enabled": false,
   "gitlens.codeLens.enabled": false,
+  "git.confirmSync": false,
 }
