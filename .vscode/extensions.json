@@ -33,10 +33,6 @@
         "eamodio.gitlens",
         "felipecaputo.git-project-manager",
         "donjayamanne.githistory",
-<<<<<<< HEAD
-        "sysoev.language-stylus"
-=======
         "dariofuzinato.vue-peek"
->>>>>>> 8a3ae5ddef7056432ad47b6daa8d884578b9f660
 	]
 }
