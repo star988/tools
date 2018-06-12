@@ -33,6 +33,7 @@
         "eamodio.gitlens",
         "felipecaputo.git-project-manager",
         "donjayamanne.githistory",
+        "sysoev.language-stylus",
         "dariofuzinato.vue-peek"
 	]
 }
