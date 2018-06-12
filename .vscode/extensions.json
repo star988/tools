@@ -32,6 +32,7 @@
         "donjayamanne.jquerysnippets",
         "eamodio.gitlens",
         "felipecaputo.git-project-manager",
-        "donjayamanne.githistory"
+        "donjayamanne.githistory",
+        "sysoev.language-stylus"
 	]
 }
